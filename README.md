@@ -1,6 +1,9 @@
 Google Currency
 ===============
 
+Add the following line into your Gemfile
+gem 'google_currency'
+
 [![Build Status](https://secure.travis-ci.org/RubyMoney/google_currency.png)](http://travis-ci.org/RubyMoney/google_currency)
 
 This gem extends Money::Bank::VariableExchange with Money::Bank::GoogleCurrency
